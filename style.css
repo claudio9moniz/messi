@@ -1,0 +1,77 @@
+
+body {
+    background-image: url('messi.img.webp');
+    background-size: cover;
+    background-attachment: fixed; 
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.messi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.botao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.sobre {
+    background-color: rgb(254, 254, 254) ; /* Cor de fundo amarela */
+    border: none; /* Remova a borda */
+    color: #000000; /* Cor do texto branca */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    border-radius: 10px; /* Cantos arredondados */
+    cursor: pointer; /* Transforma o cursor em uma mão quando passa por cima */
+  }
+  
+  .sobre:hover {
+    background-color: #FFCC00; /* Cor de fundo amarela mais clara ao passar o mouse */
+  }
+
+
+    
+  .historia {
+    background-color: #00a2ff; /* Cor de fundo amarela */
+    border: none; /* Remova a borda */
+    color: #fff; /* Cor do texto branca */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    border-radius: 10px; /* Cantos arredondados */
+    cursor: pointer; /* Transforma o cursor em uma mão quando passa por cima */
+  }
+  
+  .historia:hover {
+    background-color: #FFCC00; /* Cor de fundo amarela mais clara ao passar o mouse */
+  }
+
+
+
+  .conquistas {
+    background-color: #ffffff; /* Cor de fundo amarela */
+    border: none; /* Remova a borda */
+    color: #000000; /* Cor do texto branca */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    border-radius: 10px; /* Cantos arredondados */
+    cursor: pointer; /* Transforma o cursor em uma mão quando passa por cima */
+  }
+  
+  .conquistas:hover {
+    background-color: #FFCC00; /* Cor de fundo amarela mais clara ao passar o mouse */
+  }
+
+  
